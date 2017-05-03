@@ -1,4 +1,6 @@
 # awesome-android-ui-master
+# Index (light-weight pages)
+![Other](https://github.com/gb0302/awesome-android-ui-master/blob/master/pages/Other.md)
 ![](https://github.com/gb0302/awesome-android-ui-master/blob/master/art/AVLoadingIndicatorView.gif)
 ![](https://github.com/gb0302/awesome-android-ui-master/blob/master/arhttps://github.com/gb0302/awesome-android-ui-)
 ![](https://github.com/gb0302/awesome-android-ui-master/blob/master/art/Android-ColorArcProgressBar.gif)
