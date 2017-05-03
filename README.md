@@ -1,6 +1,9 @@
 # Index (light-weight pages)
-* [12323](https://github.com/gb0302/awesome-android-ui-master/blob/master/pages/Other.md)
-* [12323](https://github.com/gb0302/awesome-android-ui-master/blob/master/pages/Other.md)
+* [Other](https://github.com/gb0302/awesome-android-ui-master/blob/master/pages/Other.md)
+* [ActionBar](https://github.com/gb0302/awesome-android-ui-master/blob/master/pages/ActionBar.md)
+* [Animation(https://github.com/gb0302/awesome-android-ui-master/blob/master/pages/Animation.md)
+* [Button](https://github.com/gb0302/awesome-android-ui-master/blob/master/pages/Button.md)
+* [Calendar](https://github.com/gb0302/awesome-android-ui-master/blob/master/pages/Calendar.md)
 # awesome-android-ui-master
 ![](https://github.com/gb0302/awesome-android-ui-master/blob/master/art/AVLoadingIndicatorView.gif)
 ![](https://github.com/gb0302/awesome-android-ui-master/blob/master/arhttps://github.com/gb0302/awesome-android-ui-)
